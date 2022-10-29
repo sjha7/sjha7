@@ -1,7 +1,7 @@
 [![Masterhead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)]
 <h1 align="center">Hi 👋, I'm SWEETY JHA</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-ps://holopin.me/sweetyjha11)](https://holopin.io/@sweetyjha11)
+
 <p align="left"> <img src="https://c.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif" alt="sweetyjha11" /> </p>
 
 <p align="left"> <a href="https://twitter.com/sweetyj13171434" target="blank"><img src="https://img.shields.io/twitter/follow/sweetyj13171434?logo=twitter&style=for-the-badge" alt="sweetyj13171434" /></a> </p>
