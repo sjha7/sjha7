@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://c.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif" alt="sweetyjha11" /> </p>
 
-<p align="left"> <a https://x.com/Sweetyjhaa?t=P1kkwPVy1uV-IsJHkMi_FQ&s=09" target="blank"><img src="https://x.com/Sweetyjhaa?t=P1kkwPVy1uV-IsJHkMi_FQ&s=09" /></a> </p>
+
 
 - 🌱 I’m currently learning **React Native**
 
