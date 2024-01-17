@@ -10,15 +10,16 @@
 
 - 💬 Ask me about **Cloud computing,Web Development,Open Source**
 
-- 📫 How to reach me **sjha1172000@gmail.com**
+- 📫 How to reach me **sweetyjha09875@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sweetyj13171434" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sweetyj13171434" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/sweety-jha-339116201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sweety-jha-339116201" height="30" width="40" /></a>
-<a href="https://instagram.com/the._armor._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the._armor._" height="30" width="40" /></a>
+<a href="https://x.com/Sweetyjhaa?t=P1kkwPVy1uV-IsJHkMi_FQ&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sweetyj13171434" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sweety-jha-339116201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sweety-jha-339116201" height="30" width="40" /></a>
+<a href="https://www.instagram.com/__.armor?igsh=aDd2OXg1YTc1d2Iw
+" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="the._armor._" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
